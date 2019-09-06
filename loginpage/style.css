@@ -1,0 +1,9 @@
+.bgimg{
+    background: url('1.jpeg');
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center;
+  }
+  .btncolor{
+    background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);
+}
